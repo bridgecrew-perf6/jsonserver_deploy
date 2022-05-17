@@ -1,16 +1,54 @@
 {
-  "posts":[
+  "details": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+      "firstname": "lucky",
+      "lastname": "pacha",
+      "email": "egireeshkumar99@gmail.com",
+      "number": "12345",
+      "password": "12345",
+      "confirmPassword": "12345",
+      "status": false,
+      "id": 1
+    },
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "firstname": "Gireeshkumar",
+      "lastname": "Ediga",
+      "email": "egireeshkumar99@gmail.com",
+      "number": "1234",
+      "password": "12345",
+      "confirmPassword": "12345",
+      "status": false,
+      "id": 2
+    },
+    {
+      "firstname": "Gireeshkumar",
+      "lastname": "Ediga",
+      "email": "edigagireeshkumar@gmail.com",
+      "number": "9505756424",
+      "password": "123",
+      "confirmPassword": "123",
+      "status": false,
+      "id": 3
+    },
+    {
+      "firstname": "lucky",
+      "lastname": "pacha",
+      "email": "lucky@gmail.com",
+      "number": "1234567890",
+      "password": "1234567890",
+      "confirmPassword": "1234567890",
+      "status": false,
+      "id": 4
+    },
+    {
+      "firstname": "Gireeshkumar",
+      "lastname": "Ediga",
+      "email": "edigagireeshkumar@gmail.com",
+      "number": "99999999999",
+      "password": "99999",
+      "confirmPassword": "99999",
+      "status": false,
+      "id": 5
     }
   ]
 }
